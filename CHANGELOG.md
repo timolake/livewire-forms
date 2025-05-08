@@ -2,7 +2,10 @@
 
 
 All notable changes to `livewire-forms` will be documented in this file.
-## v2.1.2 - 2025-01-15
+## 2.3.0- 2025-05-08
+- search: add suppport for laravel 12
+## v2.2.0 - 2025-01-15
+* form: make addParamsToUrl function protected## v2.1.2 - 2025-01-15
 * form: make addParamsToUrl function protected
 ## v2.1 - 2024-08-28
 * form: get id field can be null (create new model)
