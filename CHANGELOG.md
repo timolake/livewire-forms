@@ -2,6 +2,8 @@
 
 
 All notable changes to `livewire-forms` will be documented in this file.
+## 3.0- 2026-02-03
+- livewire 4
 ## 2.3.0- 2025-05-08
 - search: add suppport for laravel 12
 ## v2.2.0 - 2025-01-15
