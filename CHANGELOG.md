@@ -2,7 +2,26 @@
 
 
 All notable changes to `livewire-forms` will be documented in this file.
-
+## 3.0- 2026-02-03
+- livewire 4
+## 2.3.0- 2025-05-08
+- search: add suppport for laravel 12
+## v2.2.0 - 2025-01-15
+* form: make addParamsToUrl function protected## v2.1.2 - 2025-01-15
+* form: make addParamsToUrl function protected
+## v2.1 - 2024-08-28
+* form: get id field can be null (create new model)
+* ## v20 - 2024-08-2
+* support for livewire 3
+## v1.11 - 2024-04-11
+* itemform: get id field for item from model
+## v1.10 - 2024-04-08
+* itemform: get parent id from relationship
+* itemform: belongsToMany get id from from foreign pivot
+* itemform: belongs to many uses id of intermediate table
+  * ## v1.9.3 - 2024-02-08
+* form: sequence AfterSave and SaveRelations
+* itemform: belongs to many id
 ## v1.9 - 2024-01-24
 * itemForm: add support for BelongsToMany
 ## v1.8 - 2024-01-24
